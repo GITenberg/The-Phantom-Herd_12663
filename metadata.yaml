@@ -1,0 +1,32 @@
+_repo: The-Phantom-Herd_12663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: Many of B. M. Bower's Western novels were adapted for the silver screen,
+  an experience she puts to hilarious use in the entertaining novel The Phantom Herd.
+  In it, Bower skewers the filmmaking process, depicting a bumbling crew of Hollywood
+  moneygrubbers who come to the Wild West to shoot a movie, only to find that the
+  truly untamed nature of the region is virtually impossible to capture on film.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Phantom Herd
+url: http://www.gutenberg.org/ebooks/12663
